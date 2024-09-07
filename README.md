@@ -1,3 +1,4 @@
+
 *Bu proje TEKNOFEST 2024 Antalya T3AI Hackathon Yarışması Uygulama Geliştirme Kategorisi için geliştirilmiştir.*
 #T3AIHACKATHON
 # Proje Başlığı 
@@ -15,6 +16,7 @@ Engelleri Kıran Cep Rehberiniz…
 ....
 
 ## Uygulamadan Ekran Görüntüleri
-
+![Siyah](https://github.com/Abra-Muhara/T3AIHACKATHON_ABRAMUHARA/blob/main/uygulama.jpg)
 ## Uygulamayı Lokalde Çalıştırma
 
+![beyaz](https://github.com/Abra-Muhara/T3AIHACKATHON_ABRAMUHARA/blob/main/uygulama_beyaz.jpg)
