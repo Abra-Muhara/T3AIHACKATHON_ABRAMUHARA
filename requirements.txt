@@ -1,1 +1,10 @@
-
+opencv-python
+matplotlib
+Pillow
+gTTS
+pygame
+easyocr
+gradio
+customtkinter
+numpy
+requests
