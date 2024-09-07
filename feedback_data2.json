@@ -1,0 +1,19 @@
+{
+    "interaction_id": "63bb6f35-6546-4ba9-b954-f54bb9be4c68",
+    "user_id": "user15413412",
+    "timestamp": "2024-09-07T07:41:21.434098Z",
+    "content_generated": {
+        "input_prompt": ";kişi, 70, orta;kişi, 8682, sol;",
+        "response": "\nKullanıcının görüş alanı içinde bir kişi bulunmaktadır. Kişi, kullanıcının sağına göre 8.682 cm uzaklıkta yer almaktadır ve tam ortadadır."
+    },
+    "user_feedback": {
+        "rating": "Like",
+        "feedback_text": "Gayet güzel ve açıklayıcı.",
+        "preferred_response": ""
+    },
+    "feedback_metadata": {
+        "device": "masaüstü",
+        "location": "Antalya, Türkiye",
+        "session_duration": "30 sec"
+    }
+}
